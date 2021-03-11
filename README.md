@@ -3,6 +3,8 @@
 Minisymposium (proposal) for the JuliaCon 2021. Possible titles:
 
 - Applications of Set Propagation Techniques in Julia
+- Set Propagation Techniques with Applicactions in Control
+
 
 ## Topics
 
