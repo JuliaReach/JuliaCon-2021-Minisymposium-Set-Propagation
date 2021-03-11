@@ -8,10 +8,12 @@ Minisymposium (proposal) for the JuliaCon 2021. Possible titles:
 
 ## Topics
 
-- RFEM
+- Reachability Analysis for Linear PDEs in Transient Solid Mechanics (Marcelo, Jorge, Daniel) 
+
 - Dionysos
 
 - PBA
+
 - Neural Verification / NeuralNetworkAnalysis.jl
 
 - a panel / discussion session with senior researchers in the field (?)
