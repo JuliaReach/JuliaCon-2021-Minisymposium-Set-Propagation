@@ -61,7 +61,7 @@ Minisymposium (proposal) for the JuliaCon 2021.
 
 - Verification of Closed-loop Systems with Neural Network Controllers
     - Christian Schilling ([@schillic](http://github.com/schillic/)), Univ. Konstanz
-    - Marcelo Forets ([@mforets](http://github.com/mforets), UdelaR
+    - Marcelo Forets ([@mforets](http://github.com/mforets)), UdelaR
     - Sebastian Guadalupe ([@sguadalupe](http://github.com/@guadalupe)), UdelaR
     - [Project link](https://github.com/JuliaReach/NeuralNetworkAnalysis.jl)
 
