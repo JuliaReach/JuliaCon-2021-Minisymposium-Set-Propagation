@@ -1,4 +1,4 @@
-# JuliaCon-2021-Minisymposium-Set-Propagation-Applications
+# JuliaCon 2021 Minisymposium: Set Propagation Applications
 
 Minisymposium (proposal) for the JuliaCon 2021.
 
