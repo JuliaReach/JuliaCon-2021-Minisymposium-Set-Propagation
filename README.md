@@ -46,7 +46,7 @@ Minisymposium (proposal) for the JuliaCon 2021.
 
 ### PBA
 
-- Probability Bounds Analysis in Julia. 
+- Probability Bounds Analysis in Julia
     - Ander Gray ([@AnderGray](github.com/AnderGray)) (Univ Liverpool)
     - [Project link](https://github.com/AnderGray/ProbabilityBoundsAnalysis.jl)
 
