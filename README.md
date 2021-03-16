@@ -7,8 +7,7 @@ Minisymposium (proposal) for the JuliaCon 2021.
 - Set Propagation Techniques with Applications in Control and Deep Learning
 
 
-## Proposal
-
+## Roles
 
 - Organisers:
     - Marcelo Forets ([@mforets](http://github.com/mforets)), UdelaR
@@ -20,11 +19,13 @@ Minisymposium (proposal) for the JuliaCon 2021.
 
 (...)
 
-## Schedule
+## Abstract (500 characters)
 
-(...)
+## Description (5000 characters)
 
-## Talks
+## Notes
+
+## Confirmed Topics
 
 
 ### Set Propagation For Time Integration in Transient Solid Mechanics Problems
