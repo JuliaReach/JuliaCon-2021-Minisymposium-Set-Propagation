@@ -6,6 +6,15 @@ Minisymposium (proposal) for the JuliaCon 2021.
 
 - Set Propagation Techniques with Applications in Control and Deep Learning
 
+
+## Proposal
+
+(...)
+
+## Schedule
+
+(...)
+
 ## Talks
 
 
@@ -51,10 +60,3 @@ Minisymposium (proposal) for the JuliaCon 2021.
     - [Project link](https://github.com/JuliaReach/NeuralNetworkAnalysis.jl)
 
 
-## Proposal
-
-(...)
-
-## Schedule
-
-(...)
