@@ -15,6 +15,9 @@ Minisymposium (proposal) for the JuliaCon 2021.
     - Christian Schilling ([@schillic](http://github.com/schillic/)), Univ. Konstanz
     - David P. Sanders ([@dpsanders](http://github.com/dpsanders)), UNAM, MIT
 
+- Moderator/Chair: 
+    - David P. Sanders ([@dpsanders](http://github.com/dpsanders)), UNAM, MIT
+
 (...)
 
 ## Schedule
