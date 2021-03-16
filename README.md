@@ -27,9 +27,9 @@ Minisymposium (proposal) for the JuliaCon 2021.
 ### Set Propagation For Time Integration in Transient Solid Mechanics Problems
 
 - Set Propagation For Time Integration in Transient Solid Mechanics Problems
-    - Marcelo Forets ([@mforets](http://github.com/mforets), UdelaR
-    - Daniel Freire Caporale ([@dfcaporale](http://github.com/dfcaporale), UdelaR
-    - Jorge Perez Zerpa ([@jorgepz](http://github.com/jorgepz), UdelaR
+    - Marcelo Forets ([@mforets](http://github.com/mforets)), UdelaR
+    - Daniel Freire Caporale ([@dfcaporale](http://github.com/dfcaporale)), UdelaR
+    - Jorge Perez Zerpa ([@jorgepz](http://github.com/jorgepz)), UdelaR
     - Project link (TO BE ADDED)
 
 ### Dionysos.jl: Optimal Control of Cyber-Physical Systems
