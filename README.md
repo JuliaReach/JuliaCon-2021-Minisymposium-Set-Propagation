@@ -17,13 +17,15 @@ Minisymposium (proposal) for the JuliaCon 2021.
 - Moderator/Chair: 
     - David P. Sanders ([@dpsanders](http://github.com/dpsanders)), UNAM, MIT
 
-(...)
-
 ## Abstract (500 characters)
+
+TODO
 
 ## Description (5000 characters)
 
-## Notes
+TODO
+
+
 
 ## Confirmed Topics
 
