@@ -24,7 +24,7 @@ Minisymposium (proposal) for the JuliaCon 2021.
 ## Talks
 
 
-### R-FEM
+### Set Propagation For Time Integration in Transient Solid Mechanics Problems
 
 - Set Propagation For Time Integration in Transient Solid Mechanics Problems
     - Marcelo Forets ([@mforets](http://github.com/mforets), UdelaR
@@ -32,32 +32,32 @@ Minisymposium (proposal) for the JuliaCon 2021.
     - Jorge Perez Zerpa ([@jorgepz](http://github.com/jorgepz), UdelaR
     - Project link (TO BE ADDED)
 
-### OC
+### Dionysos.jl: Optimal Control of Cyber-Physical Systems
 
 - Dionysos.jl: Optimal Control of Cyber-Physical Systems
     - Benoit Legat ([@blegat](http://github.com/blegat)), UCLouvain
     - [Project link](https://github.com/dionysos-dev/Dionysos.jl)
 
-### EDS
+### Solving Optimization Problems with Embedded Dynamic Systems
 
 - Solving Optimization Problems with Embedded Dynamic Systems
     - Matthew Wilhelm ([@mewilhel](http://github.com/mewilhel)), Univ. Connecticut
     - Project link (TO BE ADDED)
 
-### PBA
+### Probability Bounds Analysis in Julia
 
 - Probability Bounds Analysis in Julia
     - Ander Gray ([@AnderGray](http://github.com/AnderGray)) (Univ Liverpool)
     - [Project link](https://github.com/AnderGray/ProbabilityBoundsAnalysis.jl)
 
 
-### NV
+### Methods to Soundly Verify Deep Neural Networks
 
 - Methods to Soundly Verify Deep Neural Networks
     - Tomer Arnon ([@tomerarnon](http://github.com/tomerarnon)), Stanford
     - [Project link](https://github.com/sisl/NeuralVerification.jl)
 
-### NNA
+### Verification of Closed-loop Systems with Neural Network Controllers
 
 - Verification of Closed-loop Systems with Neural Network Controllers
     - Christian Schilling ([@schillic](http://github.com/schillic/)), Univ. Konstanz
