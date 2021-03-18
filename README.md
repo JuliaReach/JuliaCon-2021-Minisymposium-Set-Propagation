@@ -19,12 +19,10 @@ Minisymposium (proposal) for the JuliaCon 2021.
 
 ## Abstract (500 characters)
 
-TODO
+A new generation of algorithms is addressing the fundamental challenge of how to exhaustively explore all possible scenarios for the robust simulation of dynamical systems under model uncertainties. Moreover, deep neural networks take an increasing role in control and safety-critical applications, although it is not known how to guarantee that they will behave correctly and safely under all circumstances. This minisymposium will host applications of set-based methods in Julia.
+
 
 ## Description (5000 characters)
-
-TODO
-
 
 
 ## Schedule
@@ -36,7 +34,7 @@ TODO
 - Set Propagation For Time Integration in Transient Solid Mechanics Problems
     - Marcelo Forets ([@mforets](http://github.com/mforets)), UdelaR
     - Daniel Freire Caporale ([@dfcaporale](http://github.com/dfcaporale)), UdelaR
-    - Jorge Perez Zerpa ([@jorgepz](http://github.com/jorgepz)), UdelaR
+    - **Jorge Perez Zerpa** ([@jorgepz](http://github.com/jorgepz)), UdelaR
     - Project link (TO BE ADDED)
 
 ### Dionysos.jl: Optimal Control of Cyber-Physical Systems (20min + 2min Q)
