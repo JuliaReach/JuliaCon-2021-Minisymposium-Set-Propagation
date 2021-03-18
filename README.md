@@ -19,12 +19,13 @@ Minisymposium (proposal) for the JuliaCon 2021.
 
 ## Abstract (500 characters)
 
-A new generation of algorithms is addressing the fundamental challenge of how to exhaustively explore all possible scenarios for simulation of dynamical systems under model uncertainties. Moreover, deep neural networks take an increasing role in control and safety-critical applications, although it is not known how to guarantee that they will behave correctly and safely under all circumstances. This minisymposium will host applications of set-based techniques and global optimization in Julia.
+This minisymposium presents modern approaches to analysis of a variety of mathematical systems in Julia: dynamical systems, cyber-physical systems, probabilistic systems, and neural networks.
+
 
 
 ## Description (5000 characters)
 
-TO-DO
+A new generation of algorithms is addressing the fundamental challenge of how to exhaustively explore all possible scenarios for simulation of dynamical systems under model uncertainties. Moreover, deep neural networks take an increasing role in control and safety-critical applications, although it is not known how to guarantee that they will behave correctly and safely under all circumstances. This minisymposium will host applications of set-based techniques and global optimization in Julia.
 
 ## Schedule
 
