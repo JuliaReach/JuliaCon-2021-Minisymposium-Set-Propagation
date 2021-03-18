@@ -51,6 +51,9 @@ TO-DO
     - Benoit Legat ([@blegat](http://github.com/blegat)), UCLouvain
     - [Project link](https://github.com/dionysos-dev/Dionysos.jl)
 
+- Dionysos is the software of the ERC project Learning to control (L2C). In view of the Cyber-Physical Revolution, the only sensible way of controlling these complex systems is often by discretizing the different variables, thus transforming the model into a simple combinatorial problem on a finite-state automaton, called an abstraction of this system. The goal of L2C is to transform this approach into an effective, scalable, cutting-edge technology that will address the CPS challenges and unlock their potential. This ambitious goal will be achieved by leveraging powerful tools from Mathematical Engineering.
+
+
 ### Solving Optimization Problems with Embedded Dynamic Systems (20min + 2min Q)
 
 - Solving Optimization Problems with Embedded Dynamic Systems
@@ -79,6 +82,8 @@ TO-DO
     - Ander Gray ([@AnderGray](http://github.com/AnderGray)) (Univ Liverpool)
     - [Project link](https://github.com/AnderGray/ProbabilityBoundsAnalysis.jl)
 
+- Probability bounds analysis in Julia, a package for performing arithmetic between uncertain numbers. ProbabilityBoundsAnalysis.jl computes guaranteed bounds on functions of random variables, given only partial information about their marginals and dependence. Considered to be a form of rigorous computing with random variables.
+
 
 ### Methods to Soundly Verify Deep Neural Networks (20min + 2min Q)
 
@@ -86,5 +91,6 @@ TO-DO
     - Tomer Arnon ([@tomerarnon](http://github.com/tomerarnon)), Stanford
     - [Project link](https://github.com/sisl/NeuralVerification.jl)
 
+- Deep neural networks are widely used for nonlinear function approximation with applications ranging from computer vision to control. Although these networks involve the composition of simple arithmetic operations, it can be very challenging to verify whether a particular network satisfies certain input-output properties. NeuralVerification.jl implements several methods that have emerged recently for soundly verifying such properties. These methods borrow insights from reachability analysis, optimization, and search. We discuss fundamental differences and connections between existing algorithm and we provide pedagogical implementations of existing methods and compare them on a set of benchmark problems.
 
 
