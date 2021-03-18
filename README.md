@@ -24,11 +24,13 @@ A new generation of algorithms is addressing the fundamental challenge of how to
 
 ## Description (5000 characters)
 
-
+TO-DO
 
 ## Schedule
 
-### Introduction (10min)
+### Introductory Talk (10min)
+
+...
 
 ### Set Propagation For Time Integration in Transient Solid Mechanics Problems (20min + 2min Q)
 
