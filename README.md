@@ -19,10 +19,11 @@ Minisymposium (proposal) for the JuliaCon 2021.
 
 ## Abstract (500 characters)
 
-A new generation of algorithms is addressing the fundamental challenge of how to exhaustively explore all possible scenarios for the robust simulation of dynamical systems under model uncertainties. Moreover, deep neural networks take an increasing role in control and safety-critical applications, although it is not known how to guarantee that they will behave correctly and safely under all circumstances. This minisymposium will host applications of set-based methods in Julia.
+A new generation of algorithms is addressing the fundamental challenge of how to exhaustively explore all possible scenarios for simulation of dynamical systems under model uncertainties. Moreover, deep neural networks take an increasing role in control and safety-critical applications, although it is not known how to guarantee that they will behave correctly and safely under all circumstances. This minisymposium will host applications of set-based techniques and global optimization in Julia.
 
 
 ## Description (5000 characters)
+
 
 
 ## Schedule
@@ -48,6 +49,22 @@ A new generation of algorithms is addressing the fundamental challenge of how to
 - Solving Optimization Problems with Embedded Dynamic Systems
     - Matthew Wilhelm ([@mewilhel](http://github.com/mewilhel)), Univ. Connecticut
     - Project link (TO BE ADDED)
+
+
+- Solving Optimization Problems with Embedded Dynamical Systems.
+
+    - Matthew Wilhelm (@mewilhel), Univ. Connecticut - Speaking.
+
+        - Matthew E. Wilhelm received a B.S. in Applied Mathematics from the University of North Carolina at Greensboro, Greensboro, NC, USA (2009), and a M.S. in Chemical Engineering from Columbia University, New York, NY, USA (2011). He is currently a PhD Candidate in Chemical and Biomolecular Engineering at the  University of Connecticut where his research interests include: nonconvex optimization, dynamic simulation and optimization, mathematical biology, and engineering & STEM pedagogy.
+
+    - Matthew Stuber (@MatthewStuber), Univ. Connecticut
+
+        - Matthew D. Stuber received a Bachelor of Chemical Engineering degree from the University of Minnesota – Twin Cities (2007) and a PhD in Chemical Engineering from MIT (2012). He is currently an Assistant Professor of Chemical and Biomolecular Engineering at the University of Connecticut his research interests include: process systems engineering, design under uncertainty, renewable energy and process integration, desalination and water treatment.
+
+    - Description of Talk:
+
+        - We review our recent work on the EAGODynamicOptimizer.jl and DynamicBounds.jl packages which extended the EAGO.jl nonconvex optimizer to address formulations containing embedded dynamical systems. We highlight a series of approaches for constructing the requisite convex and concave relaxations of differential equations in the original decision space and discuss the use of such techniques in a global optimization context. These methods may readily be composed with existing McCormick relaxations approaches which allows for the solution of general nonlinear formulations to certified global optimality. Use cases relevant to hybrid data-driven process modeling, parameter estimation, and worst-case robust design are discussed.
+
 
 ### Probability Bounds Analysis in Julia (20min + 2min Q)
 
