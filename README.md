@@ -38,6 +38,9 @@ A new generation of algorithms is addressing the fundamental challenge of how to
     - **Jorge Perez Zerpa** ([@jorgepz](http://github.com/jorgepz)), UdelaR
     - Project link (TO BE ADDED)
 
+    - The Finite Element Method (FEM) is the gold standard for the numerical simulation in transient solid mechanics problems. Several time integration algorithms have been developed in recent decades, however it is still a challenging problem to completely describe the family of dynamically feasible behaviors under given sets of initial states. In this talk we present a different, set-based approach motivated by recent advances in the field of Reachability Analysis (RA): by propagating the sets given in the problem formulation, we obtain flowpipes, unions of sets enclosing the infinitely many solutions of the problems. We show that the full potential of RA in solid mechanics problems is yet to be explored.
+
+
 ### Dionysos.jl: Optimal Control of Cyber-Physical Systems (20min + 2min Q)
 
 - Dionysos.jl: Optimal Control of Cyber-Physical Systems
