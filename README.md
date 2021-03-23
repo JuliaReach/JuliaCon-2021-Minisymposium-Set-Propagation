@@ -27,7 +27,7 @@ A new generation of algorithms is addressing the fundamental challenge of how to
 
 More specifically, the following talks are planned:
 
-- Introductory talk (10min) from an expert in the field of reachability analysis and cyber-physical systems. Non Julia-specific.
+- Introductory talk (10min) from an expert in the field of reachability analysis and cyber-physical systems. Non Julia-specific. (To be announced).
 
 - Five (20min) talks from scientists and Julia package developers:
 
