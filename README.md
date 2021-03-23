@@ -29,7 +29,7 @@ More specifically, the following talks are planned:
 
 - **Introductory talk** (~10min) from an expert in the field of reachability analysis and cyber-physical systems. Non Julia-specific.
 
-    - Speaker: Goran Frehse.
+    - Speaker: Goran Frehse ([webpage](https://sites.google.com/site/frehseg/home))
     - Short bio: Goran Frehse has a Diploma in Electrical Engineering and Information Technology from Karlsruhe Institute of Technology, Germany, and a PhD in Computer Science from Radboud University Nijmegen, the Netherlands. From 2006 to 2018, he was an associate professor at the University Grenoble Alpes, from which he obtained a habilitation in 2016. From 2016 to 2018, he held a research chair (Chaire Initiative Universitaire Alpes) at the Univ. Grenoble Alpes. Since 2018, he is a professor at ENSTA Paris, where he continues his research on safe cyber-physical systems. He is the architect and lead developer of two popular model checking tools for hybrid and cyber-physical systems, PHAVer and SpaceEx. 
 
 - Five (20min) talks from scientists and Julia package developers:
