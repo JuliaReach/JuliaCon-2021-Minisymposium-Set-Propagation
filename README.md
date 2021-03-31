@@ -12,7 +12,6 @@ Minisymposium (proposal) for JuliaCon 2021.
 - Organisers:
     - Marcelo Forets ([@mforets](http://github.com/mforets)), UdelaR
     - Christian Schilling ([@schillic](http://github.com/schillic/)), Univ. Konstanz
-    - David P. Sanders ([@dpsanders](http://github.com/dpsanders)), UNAM, MIT
 
 - Moderator/Chair: 
     - David P. Sanders ([@dpsanders](http://github.com/dpsanders)), UNAM, MIT
