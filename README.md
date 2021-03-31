@@ -23,7 +23,7 @@ This minisymposium presents modern approaches to analyze a variety of mathematic
 
 A new generation of algorithms is addressing the fundamental challenge of how to exhaustively explore all possible scenarios for simulation of dynamical systems under model uncertainties. Moreover, deep neural networks play an increasing role in control and safety-critical applications, although it is often not known how to guarantee that they will behave correctly and safely under all circumstances. This minisymposium will host applications of set-based techniques and global optimization in Julia that address these questions.
 
-We have made sure to reach out to several different groups who are working on set propagation techniques and their application in a wide range of areas, to present a broad overview of the area.
+We have deliberately reached out to several different groups working on set propagation techniques and their application in a wide range of areas, in order to present a broad overview of the contributions that Julia is bringing to this exciting area.
 
 More specifically, the following talks are planned:
 
@@ -31,7 +31,7 @@ More specifically, the following talks are planned:
 
 - Speaker: Goran Frehse (Hybrid Systems Semantics group, Computer Science and System Engineering Laboratory (U2IS), ENSTA Paris; [webpage](https://sites.google.com/site/frehseg/home)).
 
-- ~10min, Invited expert in the domain of the minisymposium (non-Julia-specific).
+- ~10 mins. Invited expert in the domain of the minisymposium (non-Julia-specific).
 
 - Goran Frehse has a Diploma in Electrical Engineering and Information Technology from Karlsruhe Institute of Technology, Germany, and a PhD in Computer Science from Radboud University Nijmegen, the Netherlands. From 2006 to 2018, he was an associate professor at the University Grenoble Alpes, from which he obtained a habilitation in 2016. From 2016 to 2018, he held a research chair (Chaire Initiative Universitaire Alpes) at the Univ. Grenoble Alpes. Since 2018, he is a professor at ENSTA Paris, where he continues his research on safe cyber-physical systems. He is the architect and lead developer of two popular model checking tools for hybrid and cyber-physical systems, [PHAVer](http://www-verimag.imag.fr/~frehse/phaver_web/) and [SpaceEx](http://spaceex.imag.fr/). He is coauthor of the revew article [Set Propagation Techniques for Reachability Analysis
 ](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-071420-081941).
