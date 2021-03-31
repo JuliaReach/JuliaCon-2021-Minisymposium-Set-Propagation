@@ -17,7 +17,7 @@ Minisymposium (proposal) for JuliaCon 2021.
 
 ## Abstract (500 characters)
 
-This minisymposium presents modern approaches to analyze a variety of mathematical systems in Julia, via **set propagation** techniques: dynamical systems, cyber-physical systems, probabilistic systems, and neural networks. To deploy those systems in the real world there is an increasing demand for software that can ensure safety and reliability under all feasible scenarios. Set-based techniques and global optimization are being developed to address such challenges. The speakers represent a broad cross-section of work in this direction from different fields.
+This minisymposium presents modern approaches to analyze a variety of mathematical systems in Julia, via set propagation techniques: dynamical systems, cyber-physical systems, probabilistic systems, and neural networks. To deploy those systems in the real world there is an increasing demand for safe and reliable models. The speakers represent a broad cross-section of work from different fields in the directions of set-based techniques and global optimization to address  such challenges.
 
 ## Description (5000 characters)
 
