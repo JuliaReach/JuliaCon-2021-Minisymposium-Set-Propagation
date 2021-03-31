@@ -15,11 +15,11 @@ Minisymposium (proposal) for JuliaCon 2021.
 - Moderator/Chair: 
     - David P. Sanders ([@dpsanders](http://github.com/dpsanders)), UNAM, MIT
 
-## Abstract (500 characters)
+## Abstract
 
 This minisymposium presents modern approaches to analyze a variety of mathematical systems in Julia, via set propagation techniques: dynamical systems, cyber-physical systems, probabilistic systems, and neural networks. To deploy those systems in the real world there is an increasing demand for safe and reliable models. The speakers represent a broad cross-section of work from different fields in the directions of set-based techniques and global optimization to address  such challenges.
 
-## Description (5000 characters)
+## Description
 
 A new generation of algorithms is addressing the fundamental challenge of how to exhaustively explore all possible scenarios for simulation of dynamical systems under model uncertainties. Moreover, deep neural networks play an increasing role in control and safety-critical applications, although it is often not known how to guarantee that they will behave correctly and safely under all circumstances. This minisymposium will host applications of set-based techniques and global optimization in Julia that address these questions.
 
