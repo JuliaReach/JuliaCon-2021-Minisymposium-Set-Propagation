@@ -45,7 +45,7 @@ More specifically, the following talks are planned:
 
 ### Dionysos.jl: Optimal Control of Cyber-Physical Systems.
 
-- By Benoit Legat ([@blegat](https://github.com/blegat)), UCLouvain (speaker), Guillaume Berger ([guberger](github.com/guberger)), Julien Calbert ([JulienCalbert](github.com/JulienCalbert)) and Raphaël Jungers ([raphaeljungers](github.com/raphaeljungers)). 
+- By Benoit Legat ([@blegat](https://github.com/blegat)), UCLouvain, Guillaume Berger ([guberger](github.com/guberger)), Julien Calbert ([JulienCalbert](github.com/JulienCalbert)) (speaker) and Raphaël Jungers ([raphaeljungers](github.com/raphaeljungers)). 
 
 - [Dionysos.jl](https://github.com/dionysos-dev/Dionysos.jl) is software produced by the ERC project Learning to Control (L2C). In view of the Cyber-Physical Revolution, the only sensible way of controlling these complex systems is often by discretizing the different variables, thus transforming the model into a simple combinatorial problem on a finite-state automaton, called an abstraction of this system. The goal of L2C is to transform this approach into an effective, scalable, cutting-edge technology that will address the challenges of Cyber-Physical Systems and unlock their potential. This ambitious goal will be achieved by leveraging powerful tools from Mathematical Engineering.
 
