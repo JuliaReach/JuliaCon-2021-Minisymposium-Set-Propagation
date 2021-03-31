@@ -29,7 +29,7 @@ More specifically, the following talks are planned:
 
 ### Introductory talk
 
-- Speaker: Goran Frehse (ENSTA Paris Tech, [webpage](https://sites.google.com/site/frehseg/home)).
+- Speaker: Goran Frehse (Hybrid Systems Semantics group, Computer Science and System Engineering Laboratory (U2IS), ENSTA Paris; [webpage](https://sites.google.com/site/frehseg/home)).
 
 - ~10min, Invited expert in the domain of the minisymposium (non-Julia-specific).
 
