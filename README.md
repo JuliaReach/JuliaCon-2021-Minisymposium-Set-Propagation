@@ -38,14 +38,14 @@ More specifically, the following talks are planned:
 
 ### Using Set Propagation and the Finite Element Method For Time Integration in Transient Solid Mechanics Problems
 
-- By Jorge Pérez Zerpa ([@jorgepz](http://github.com/jorgepz)) (UdelaR, speaker), Marcelo Forets ([@mforets](http://github.com/mforets)) (UdelaR) and Daniel Freire Caporale ([@dfcaporale](http://github.com/dfcaporale)) (UdelaR). 
+- By Jorge Pérez Zerpa ([@jorgepz](http://github.com/jorgepz)) UdelaR (speaker), Marcelo Forets ([@mforets](http://github.com/mforets)) and Daniel Freire Caporale ([@dfcaporale](http://github.com/dfcaporale)). 
 
 - The Finite Element Method (FEM) is the gold standard for numerical simulation in transient solid mechanics problems. Several time-integration algorithms have been developed in recent decades; however, it is still a challenging problem to completely describe the family of dynamically-feasible behaviors from given sets of initial states. In this talk we present a different, set-based approach, motivated by recent advances in the field of Reachability Analysis (RA): by propagating the sets given in the problem formulation, we obtain **flowpipes**, i.e. unions of sets enclosing the infinitely many solutions of the problems. We show that the full potential of RA in solid mechanics problems is yet to be explored.
 
 
 ### Dionysos.jl: Optimal Control of Cyber-Physical Systems.
 
-- By Benoit Legat ([@blegat](https://github.com/blegat)) (UCLouvain, speaker), Guillaume Berger ([guberger](github.com/guberger)), Julien Calbert ([JulienCalbert](github.com/JulienCalbert)) and Raphaël Jungers ([raphaeljungers](github.com/raphaeljungers)). 
+- By Benoit Legat ([@blegat](https://github.com/blegat)), UCLouvain (speaker), Guillaume Berger ([guberger](github.com/guberger)), Julien Calbert ([JulienCalbert](github.com/JulienCalbert)) and Raphaël Jungers ([raphaeljungers](github.com/raphaeljungers)). 
 
 - [Dionysos.jl](https://github.com/dionysos-dev/Dionysos.jl) is software produced by the ERC project Learning to Control (L2C). In view of the Cyber-Physical Revolution, the only sensible way of controlling these complex systems is often by discretizing the different variables, thus transforming the model into a simple combinatorial problem on a finite-state automaton, called an abstraction of this system. The goal of L2C is to transform this approach into an effective, scalable, cutting-edge technology that will address the challenges of Cyber-Physical Systems and unlock their potential. This ambitious goal will be achieved by leveraging powerful tools from Mathematical Engineering.
 
@@ -57,14 +57,14 @@ More specifically, the following talks are planned:
 
 ### Computing with sets of probabilities in Julia
 
-- By Ander Gray ([@AnderGray](http://github.com/AnderGray)) (Univ. Liverpool).  
+- By Ander Gray ([@AnderGray](http://github.com/AnderGray)), Univ. Liverpool.  
  
 - There are many ways to mathematically define a set of probability distributions, including: intervals, possibility distributions, random sets and probability boxes (p-boxes). These structures were discovered independently from one another, but are often synonymous and can be translated. Imprecise Probability theory links all these theories into one. In this presentation, we present [ProbabilityBoundsAnalysis.jl](https://github.com/AnderGray/ProbabilityBoundsAnalysis.jl), a numerical implementation of p-box arithmetic in Julia, which gives an arithmetic of random variables where both marginal distributions and dependencies may be partially defined. We show how Probability Bounds Analysis may be used to rigorously propagate distributions and p-boxes in reachability problems using [ReachabilityAnalysis.jl](https://github.com/JuliaReach/ReachabilityAnalysis.jl).
 
 
 ### Methods to Soundly Verify Deep Neural Networks
 
-- By Tomer Arnon ([@tomerarnon](https://github.com/tomerarnon)) (Stanford).
+- By Tomer Arnon ([@tomerarnon](https://github.com/tomerarnon)), Stanford.
 
 - Deep neural networks are widely used for nonlinear function approximation, with applications ranging from computer vision to control. Although these networks involve the composition of simple arithmetic operations, it can be very challenging to verify whether a particular network satisfies certain input-output properties. [NeuralVerification.jl](https://github.com/sisl/NeuralVerification.jl) implements several methods that have emerged recently for soundly verifying such properties. These methods borrow insights from reachability analysis, optimization, and search. We discuss fundamental differences and connections between existing algorithms and we provide pedagogical implementations of existing methods and compare them on a set of benchmark problems.
  
