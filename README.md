@@ -36,12 +36,13 @@ More specifically, the following talks are planned:
 - Goran Frehse has a Diploma in Electrical Engineering and Information Technology from Karlsruhe Institute of Technology, Germany, and a PhD in Computer Science from Radboud University Nijmegen, the Netherlands. From 2006 to 2018, he was an associate professor at the University Grenoble Alpes, from which he obtained a habilitation in 2016. From 2016 to 2018, he held a research chair (Chaire Initiative Universitaire Alpes) at the Univ. Grenoble Alpes. Since 2018, he is a professor at ENSTA Paris, where he continues his research on safe cyber-physical systems. He is the architect and lead developer of two popular model checking tools for hybrid and cyber-physical systems, [PHAVer](http://www-verimag.imag.fr/~frehse/phaver_web/) and [SpaceEx](http://spaceex.imag.fr/). He is coauthor of the revew article [Set Propagation Techniques for Reachability Analysis
 ](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-071420-081941).
 
-### Using Set Propagation and the Finite Element Method For Time Integration in Transient Solid Mechanics Problems
+### Combining Set Propagation with Finite Element Methods for Time Integration in Transient Solid Mechanics Problems
 
 - By Jorge Pérez Zerpa ([@jorgepz](http://github.com/jorgepz)) UdelaR (speaker), Marcelo Forets ([@mforets](http://github.com/mforets)) and Daniel Freire Caporale ([@dfcaporale](http://github.com/dfcaporale)). 
 
-- The Finite Element Method (FEM) is the gold standard for numerical simulation in transient solid mechanics problems. Several time-integration algorithms have been developed in recent decades; however, it is still a challenging problem to completely describe the family of dynamically-feasible behaviors from given sets of initial states. In this talk we present a different, set-based approach, motivated by recent advances in the field of Reachability Analysis (RA): by propagating the sets given in the problem formulation, we obtain **flowpipes**, i.e. unions of sets enclosing the infinitely many solutions of the problems. We show that the full potential of RA in solid mechanics problems is yet to be explored.
+- Links: [arXiv preprint](https://arxiv.org/abs/2105.05841), [Repeatability Evaluation](https://github.com/JuliaReach/RFEM_RE) package.
 
+- The Finite Element Method (FEM) is the gold standard for numerical simulation in transient solid mechanics problems. Several time-integration algorithms have been developed in recent decades; however, it is still a challenging problem to completely describe the family of dynamically-feasible behaviors from given sets of initial states. In this talk we present a different, set-based approach, motivated by recent advances in the field of Reachability Analysis (RA): by propagating the sets given in the problem formulation, we obtain **flowpipes**, i.e. unions of sets enclosing the infinitely many solutions of the problems. We show that the full potential of RA in solid mechanics problems is yet to be explored.
 
 ### Dionysos.jl: Optimal Control of Cyber-Physical Systems.
 
