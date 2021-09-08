@@ -1,6 +1,6 @@
 # JuliaCon'21: Set Propagation with Applications
 
-Minisymposium proposal for JuliaCon 2021.
+Minisymposium that took place at JuliaCon 2021.
 
 ## Title
 
